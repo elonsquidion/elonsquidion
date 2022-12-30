@@ -13,7 +13,8 @@ My name is Delon Khaerun Alief. I am currently an undergraduate student at Bandu
 <img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />  
+<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="C#" width="32px" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" />
 
 <br><br>
 
@@ -25,7 +26,7 @@ My name is Delon Khaerun Alief. I am currently an undergraduate student at Bandu
 
 # 🎮 Game Development
 <img alt="GDScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" />
-<img alt="Unity" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
+<img alt="Unity" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 
 
 # 📊 Stats
