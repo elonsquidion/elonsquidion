@@ -10,12 +10,23 @@
 My name is Delon Khaerun Alief. I am currently an undergraduate student at Bandung Institute of Technology, majoring in Physics Engineering. I'm passionate on web development and game development.  
 
 # 💻 Languages
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img alt="GDScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" />
-<img alt="Jupyter Notebook"  width="90px" src="https://repository-images.githubusercontent.com/236512292/e6c7d600-411b-11ea-959f-471e032a3e3e" />
+<img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />  
+
+<br><br>
+
 <div>
     <a href="https://github.com/elonsquidion/elonsquidion"><img align="center" width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elonsquidion&layout=compact&hide=css,html&card_width=300&theme=dark" /></a>
 </div>
+
+<br>
+
+# 🎮 Game Development
+<img alt="GDScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" />
+<img alt="Unity" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
+
 
 # 📊 Stats
 
@@ -23,6 +34,3 @@ My name is Delon Khaerun Alief. I am currently an undergraduate student at Bandu
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elonsquidion)](https://github.com/anuraghazra/github-readme-stats)
 
-
-# 👀 Frameworks
-<img alt="Django" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" />
