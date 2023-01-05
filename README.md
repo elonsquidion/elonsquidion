@@ -5,6 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Delon_Khaerun_Alief-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:16722052@mahasiswa.itb.ac.id)](mailto:16722052@mahasiswa.itb.ac.id)
 [![Instagram Badge](https://img.shields.io/badge/-@ondelon.ka__104-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ondelon.ka_104/)](https://www.instagram.com/ondelon.ka_104/)
 [![Linkedin Badge](https://img.shields.io/badge/-Delon_Khaerun_Alief-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/delonkhaerunalief1084/)](https://www.linkedin.com/in/delonkhaerunalief1084/)
+[![Discord Badge](https://img.shields.io/badge/-elons%230667-7289da?style=flat&logo=Discord&logoColor=white&link=https://discord.com/users/844944578234810418/)](https://discord.com/users/844944578234810418/)
+
 
 # 👋 Hi there
 My name is Delon Khaerun Alief. I am currently an undergraduate student at Bandung Institute of Technology, majoring in Chemical Engineering. I'm passionate on web development and game development.  
