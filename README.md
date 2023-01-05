@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Delon_Khaerun_Alief-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/delonkhaerunalief1084/)](https://www.linkedin.com/in/delonkhaerunalief1084/)
 
 # 👋 Hi there
-My name is Delon Khaerun Alief. I am currently an undergraduate student at Bandung Institute of Technology, majoring in Physics Engineering. I'm passionate on web development and game development.  
+My name is Delon Khaerun Alief. I am currently an undergraduate student at Bandung Institute of Technology, majoring in Chemical Engineering. I'm passionate on web development and game development.  
 
 # 💻 Languages
 - HTML
