@@ -9,7 +9,7 @@
 
 
 # 👋 Hi there
-My name is Delon Khaerun Alief. I am currently an undergraduate student at Bandung Institute of Technology, majoring in Chemical Engineering. I'm passionate on web development and game development.  
+My name is Delon Khaerun Alief. I am currently an undergraduate student at Bandung Institute of Technology, majoring in Chemical Engineering. I'm passionate on Data Science/Machine Learning and Game Development.  
 
 # 💻 Languages
 - HTML
