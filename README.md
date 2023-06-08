@@ -30,5 +30,5 @@ My name is Delon Khaerun Alief. I am currently an undergraduate student at Bandu
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elonsquidion&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-    <a href="https://github.com/elonsquidion/elonsquidion"><img align="center" width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elonsquidion&layout=compact&hide=jupyter%20notebook,gap&card_width=300&theme=dark" /></a>
+    <a href="https://github.com/elonsquidion/elonsquidion"><img align="center" width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elonsquidion&layout=compact&hide=jupyter%20notebook,html,gap&card_width=300&theme=dark" /></a>
 </div>
